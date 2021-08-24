@@ -11,4 +11,5 @@
     * [10. 컬러 영상 처리](opencv/opencv-4/10..md)
     * [12. 레이블링과 외곽선 검출](opencv/opencv-4/12..md)
     * [13. 객체 검출](opencv/opencv-4/13..md)
+* [GoF의 디자인패턴](gof.md)
 
